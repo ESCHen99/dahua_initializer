@@ -8,7 +8,7 @@ This package provides an automatic way to initialize Dahua :tm: cameras via Pupp
 ### Installation
 
 ```sh
-npm i dahua_initilizer
+npm i dahua_initializer
 ```
 
 ### Usage
@@ -82,7 +82,8 @@ Screen object is an array of actions:
  - ***delay***: This action expects *time* field. Some fields need some time after the action is performed, for example the time synchronization. (*time* in *ms*).
 
  ### Example
- Complete example of ***camera_config*** for camera model: 
+ 
+ Complete example of ***camera_config*** for camera model:
 
 ```json
 {
