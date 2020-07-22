@@ -1,0 +1,25 @@
+{
+  "name": "dahua_initializer",
+  "version": "1.0.0",
+  "description": "Automatic initialization for Dahua cameras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESCHen99/dahua_initializer.git"
+  },
+  "keywords": [
+    "Dahua",
+    "Automation",
+    "CCTV",
+    "camera"
+  ],
+  "author": "encoriolis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ESCHen99/dahua_initializer/issues"
+  },
+  "homepage": "https://github.com/ESCHen99/dahua_initializer#readme"
+}
